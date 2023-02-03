@@ -1,2 +1,2 @@
 hi 
-conflict
+resolve
